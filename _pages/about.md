@@ -10,5 +10,8 @@ redirect_from:
 
 
 
-I am Zhixuan Chen, a CS major at University of Michigan, Ann Arbor.
-Download my [resume](/files/resume.pdf/) to learn about me in detail.
+Hello! I am Zhixuan Chen.
+
+I am currently a senior CS student at University of Michigan, Ann Arbor. My area of interest includes Human-Computer Interaction and Human-AI collaration.
+
+You can download my resume [here](/files/resume.pdf/).

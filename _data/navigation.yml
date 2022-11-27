@@ -9,6 +9,6 @@ main:
   - title: "Experience"
     url: /about/
     
-  - title: "CV"
-    url: /cv/
+  - title: "Resume"
+    url: /files/resume.pdf
 
