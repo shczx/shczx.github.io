@@ -12,6 +12,6 @@ redirect_from:
     
 Hello! I am Zhixuan Chen.
 
-I am currently a senior CS student at University of Michigan, Ann Arbor. My area of interest includes Human-Computer Interaction and Human-AI Collaboration.
+I am a senior CS student at University of Michigan. Previously I worked with Prof. Jingwen Hu to develop a desktop app that is used to manipulate 3D parametric human body models. I am now working on ERchat (an ER training simulation tool) in the LifelongLearning Lab directed by Prof. Xu Wang.
 
 You can download my resume [here](/files/resume.pdf/).
