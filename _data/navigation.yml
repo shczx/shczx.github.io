@@ -7,7 +7,7 @@ main:
     url: /education/
   
   - title: "Experience"
-    url: /about/
+    url: /experience/
     
   - title: "Resume"
     url: /files/resume.pdf
